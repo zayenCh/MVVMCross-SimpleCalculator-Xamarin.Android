@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculatorDroid_MVVMCross", "CalculatorDroid_MVVMCross\CalculatorDroid_MVVMCross.csproj", "{669DAEAF-4E98-4382-AB82-20839C2E9ACB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculator.Droid", "Calculator.Droid\Calculator.Droid.csproj", "{E3F57789-BCC4-4EBF-AF1D-791B6FA5F97A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{669DAEAF-4E98-4382-AB82-20839C2E9ACB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{669DAEAF-4E98-4382-AB82-20839C2E9ACB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{669DAEAF-4E98-4382-AB82-20839C2E9ACB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{669DAEAF-4E98-4382-AB82-20839C2E9ACB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E3F57789-BCC4-4EBF-AF1D-791B6FA5F97A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3F57789-BCC4-4EBF-AF1D-791B6FA5F97A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E3F57789-BCC4-4EBF-AF1D-791B6FA5F97A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3F57789-BCC4-4EBF-AF1D-791B6FA5F97A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
